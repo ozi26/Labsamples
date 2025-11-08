@@ -1,4 +1,4 @@
-  <script>
+
         // DOM Elements
         const hoursInput = document.getElementById('hours');
         const minutesInput = document.getElementById('minutes');
